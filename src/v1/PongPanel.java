@@ -44,7 +44,7 @@ public class PongPanel extends JPanel implements ActionListener, KeyListener {
 
 	private int fps = 1000 / 60;
 	private int paddleSpeed = 5;
-	private int scoreToWin = 1;
+	private int scoreToWin = 10;
 
 	// player one
 	private int playerOneX = 25;

@@ -19,7 +19,7 @@ public class Main
 		frame.setLayout(new BorderLayout());
 		
 		JMenuBar menubar = new JMenuBar();
-		JMenu menu = new JMenu("Boptions");
+		JMenu menu = new JMenu("Options");
 		menu.setMnemonic(KeyEvent.VK_O);
 		frame.add(menubar);
 		menubar.add(menu);
